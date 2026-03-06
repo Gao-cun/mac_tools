@@ -7,7 +7,7 @@
 
 | 子项目 | 说明 | 当前状态 | 入口 |
 | --- | --- | --- | --- |
-| `cut_copy` | 系统截图自动复制到剪贴板，并统一保存到默认目录，支持一键清除 | 已实现 | `/Users/zhaowenhao/code/mac_tools/cut_copy` |
+| `cut_copy` | 系统截图自动复制到剪贴板，并统一保存到默认目录，支持一键清除 | 已实现 | `mac_tools/cut_copy/dist/CutCopy.app` |
 
 ## 目录约定
 
