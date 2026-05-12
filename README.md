@@ -7,7 +7,8 @@
 
 | 子项目 | 说明 | 当前状态 | 入口 |
 | --- | --- | --- | --- |
-| `cut_copy` | 系统截图自动复制到剪贴板，并统一保存到默认目录，支持一键清除 | 已实现 | `/Users/zhaowenhao/code/mac_tools/cut_copy` |
+| `cut_copy` | 系统截图自动复制到剪贴板，并统一保存到默认目录，支持一键清除 | 已实现 | `https://github.com/Gao-cun/mac_tools/blob/main/cut_copy/README.md` |
+| `clipboard-tool` | macOS 剪切板监控工具，复制文本后自动添加翻译 prompt 前缀和专业词汇后缀，方便粘贴到网页版 AI 进行翻译。 | 已实现 | `https://github.com/Gao-cun/mac_tools/blob/main/clipboard-tool/README.md` |
 
 ## 目录约定
 
