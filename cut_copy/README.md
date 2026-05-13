@@ -12,14 +12,14 @@ macOS 菜单栏工具：把系统截图统一保存到 `~/Pictures/CutCopyShots`
 ## 开发运行
 
 ```bash
-cd /Users/zhaowenhao/code/mac_tools/cut_copy
+cd ～/cut_copy
 swift run CutCopyApp
 ```
 
 或使用脚本：
 
 ```bash
-cd /Users/zhaowenhao/code/mac_tools/cut_copy
+cd ～/cut_copy
 ./scripts/dev_run.sh
 ```
 
@@ -28,14 +28,14 @@ cd /Users/zhaowenhao/code/mac_tools/cut_copy
 仅打包到 `dist/CutCopy.app`：
 
 ```bash
-cd /Users/zhaowenhao/code/mac_tools/cut_copy
+cd ～/cut_copy
 ./scripts/package_app.sh
 ```
 
 打包并安装到 `~/Applications/CutCopy.app`：
 
 ```bash
-cd /Users/zhaowenhao/code/mac_tools/cut_copy
+cd ～/cut_copy
 ./scripts/package_app.sh --install
 ```
 
